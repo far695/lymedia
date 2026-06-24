@@ -11,14 +11,5 @@
     "address": "Example Address, District, City, Country",
     "hoursAlt": "Working Hours",
     "hours": "Mon-Fri 08:00 - 18:00 / Sun 08:00 - 14:00"
-  },
-  "form": {
-    "title": "Leave Us a Message",
-    "nameLabel": "Name",
-    "emailLabel": "Email",
-    "subjectLabel": "Subject",
-    "messageLabel": "Message",
-    "submitButton": "Send Message",
-    "submissionAlert": "Message sent! We will contact you soon."
   }
-} 
+}
