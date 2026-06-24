@@ -11,14 +11,5 @@
     "address": "示例地址, 某某区, 某某市, 中国",
     "hoursAlt": "工作时间",
     "hours": "周一至周五 08:00 - 18:00 / 周日 08:00 - 14:00"
-  },
-  "form": {
-    "title": "给我们留言",
-    "nameLabel": "姓名",
-    "emailLabel": "邮箱",
-    "subjectLabel": "主题",
-    "messageLabel": "消息内容",
-    "submitButton": "发送消息",
-    "submissionAlert": "消息已发送！我们会尽快与您联系。"
   }
-} 
+}
